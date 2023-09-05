@@ -1,0 +1,5 @@
+C:\Projects\OOP\QueueGame\obj\Debug\QueueGame.csproj.AssemblyReference.cache
+C:\Projects\OOP\QueueGame\obj\Debug\QueueGame.Form1.resources
+C:\Projects\OOP\QueueGame\obj\Debug\QueueGame.Properties.Resources.resources
+C:\Projects\OOP\QueueGame\obj\Debug\QueueGame.csproj.GenerateResource.cache
+C:\Projects\OOP\QueueGame\obj\Debug\QueueGame.csproj.CoreCompileInputs.cache
